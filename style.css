@@ -1,0 +1,14 @@
+.body {
+align-items: center;
+justify-content: center;
+border-radius: 10px;
+background-color: #099aa7;
+}
+.button {
+  background-color: #099aa7;
+  color: rgb(10, 168, 112);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
